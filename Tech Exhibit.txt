@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Scholar Summit</title>
+    <title>Online Gaming</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -89,7 +89,7 @@
                             <div class="shape_2 wow fadeInDown" data-wow-duration="1s" data-wow-delay=".3s">
                                 <img src="img/shape/shape_2.svg" alt="">
                             </div>
-                                <h3 class="wow fadeInRight" data-wow-duration="1s" data-wow-delay=".3s">Scholar Summit</h3>
+                                <h3 class="wow fadeInRight" data-wow-duration="1s" data-wow-delay=".3s">Online Gaming</h3>
                           </div>
                        </div>
                     </div>
@@ -208,7 +208,7 @@
     </div>
     <!-- brand_area_end  -->
     <!-- footer_start  -->
-    <footer class="footer">
+    <footer id="footer" class="footer">
         <div class="footer_top">
             <div class="container">
                 <div class="row justify-content-center">
